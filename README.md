@@ -18,4 +18,5 @@ The goal of this research was not to create a new algorithm but to test what has
 - Ubuntu 22.04
 - 1 TB HDD
 
-
+## Execution
+### 
