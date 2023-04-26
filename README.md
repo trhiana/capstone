@@ -19,4 +19,19 @@ The goal of this research was not to create a new algorithm but to test what has
 - 1 TB HDD
 
 ## Execution
-### 
+### fed_iot_guard
+The commands I used to test this algorithm can be found in the fed_iot_guardTest.ipynb file. More information on the parameters used is provided by the authors in the README.md file in the folder.
+
+### segmented-FL
+As stated by the author, running this algorithm can be done using
+```
+python main.py
+```
+or 
+```
+python3 main.py
+```
+The statement used depends on the operating system you have.
+
+## Acknowledgements
+I am grateful to my my supervisor, Dr. Justice Appati, for his continued patience and support during this project. 
