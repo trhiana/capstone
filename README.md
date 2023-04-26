@@ -15,4 +15,7 @@ The goal of this research was not to create a new algorithm but to test what has
 - Jupyter Notebook
 
 ### Hardware setup
-- 
+- Ubuntu 22.04
+- 1 TB HDD
+
+
