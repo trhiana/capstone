@@ -26,6 +26,7 @@ The goal of this research was not to create a new algorithm but to test what has
 The commands I used to test this algorithm can be found in the fed_iot_guardTest.ipynb file. More information on the parameters used is provided by the authors in the README.md file in the folder.
 
 ### segmented-FL
+The file can be found (here)[https://drive.google.com/file/d/1HqimQWBzo1kIybMCbieYrjrULA5IFCpe/view?usp=sharing].
 As stated by the author, running this algorithm can be done using
 ```
 python main.py
